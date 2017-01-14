@@ -1,1 +1,1 @@
-Famtribe Opsworks Chef Cookbooks
+Chef Cookbooks
